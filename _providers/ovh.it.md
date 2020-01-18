@@ -1,7 +1,7 @@
 ---
 name: OVH
 website: https://ovh.it
-domains: ga-2.it
+domains: custom domain 
 credentials: emailPass
 status:
  state: PREP
