@@ -8,6 +8,7 @@ exclude:
   - LICENSE
   - "_providers/example.com.md"
   - target
+  - vendor
 
 defaults:
 -
